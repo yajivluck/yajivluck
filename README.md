@@ -7,6 +7,7 @@
 - I’m looking to find other internships or job offers in a related field to my interests.
 - 📫 You can reach me at luckheenarain.y.pp@gmail.com
 - I will be trying to update my repositories by pushing onto it new projects, but no guarantees. 
+
 -Thank you for taking the time to read this :)
 
 <!---
