@@ -3,10 +3,10 @@
 - I need a job. 📫 You can reach me at luckheenarain.y.pp@gmail.com
 -Thank you for taking the time to read this :)
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/YajivLuck)](https://leetcode.com/YajivLuck)
-
+![Leetcode Stats](https://leetcard.jacoblin.cool/YajivLuck?ext=heatmap)
 
 ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=YajivLuck&theme=dark)
+
 
 <!---
 yajivluck/yajivluck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
